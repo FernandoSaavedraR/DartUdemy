@@ -24,4 +24,5 @@ class Asteroide extends Astro {
 
 main(List<String> args) {
   final logger = new Asteroide('ceris');
+  logger;
 }
